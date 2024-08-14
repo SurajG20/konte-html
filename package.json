@@ -15,12 +15,12 @@
     "build": "npm run scss && npm run autoprefixer && npm run uglifyjs"
   },
   "devDependencies": {
-    "postcss": "^5.0.19",
-    "node-sass": "^9.7.4",
-    "uglify-js": "^3.8.0",
-    "imagemin": "^3.0.0",
-    "browser-sync": "^2.26.7",
-    "nodemon": "^2.0.2",
-    "concurrently": "^5.1.0"
+    "postcss": "^8.4.41",
+    "node-sass": "^9.0.0",
+    "uglify-js": "^3.19.2",
+    "imagemin": "^9.0.0",
+    "browser-sync": "^3.0.2",
+    "nodemon": "^3.1.4",
+    "concurrently": "^8.2.2"
   }
 }
